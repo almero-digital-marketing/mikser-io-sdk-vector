@@ -1,0 +1,43 @@
+{
+  "name": "mikser-io-sdk-vector",
+  "version": "1.0.0",
+  "description": "Client SDK for mikser-io's vector plugin — semantic search from the browser or Node",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almero-digital-marketing/mikser-io-sdk-vector.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/almero-digital-marketing/mikser-io-sdk-vector/issues"
+  },
+  "homepage": "https://github.com/almero-digital-marketing/mikser-io-sdk-vector#readme",
+  "keywords": [
+    "mikser",
+    "mikser-io",
+    "sdk",
+    "client",
+    "vector",
+    "semantic-search",
+    "embeddings"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
