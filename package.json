@@ -17,7 +17,9 @@
     "README.md",
     "LICENSE"
   ],
-  "scripts": {},
+  "scripts": {
+    "test": "node --no-warnings --test --test-reporter=spec 'test/**/*.test.js'"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/almero-digital-marketing/mikser-io-sdk-vector.git"
