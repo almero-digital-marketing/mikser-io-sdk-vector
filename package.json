@@ -1,6 +1,6 @@
 {
   "name": "mikser-io-sdk-vector",
-  "version": "1.0.0",
+  "version": "11.0.1",
   "description": "Client SDK for mikser-io's vector plugin — semantic search from the browser or Node",
   "main": "index.js",
   "types": "index.d.ts",
